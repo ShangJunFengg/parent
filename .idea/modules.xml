@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-web/customer-web.iml" filepath="$PROJECT_DIR$/customer-web/customer-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provide-web/provide-web.iml" filepath="$PROJECT_DIR$/provide-web/provide-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
